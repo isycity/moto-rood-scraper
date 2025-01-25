@@ -1,0 +1,11 @@
+{
+  "name": "moto-rood-scraper",
+  "type": "module",
+  "scripts": {
+    "scrape": "node scraper.js"
+  },
+  "dependencies": {
+    "firebase-admin": "^11.11.0",
+    "puppeteer": "^21.5.0"
+  }
+}
